@@ -36,3 +36,14 @@ redteam-learning/
 ├── CTF-Writeups/
 ├── Tools-Guide/
 └── README.md
+
+---
+
+## Author
+
+**Kagenoire**  
+Cybersecurity learner focusing on offensive security and red teaming.  
+Documenting my journey to become a professional red teamer.  
+Feel free to explore or fork anything in this repository.
+
+
